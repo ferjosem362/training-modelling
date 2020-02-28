@@ -2,7 +2,7 @@
 title: "A Multidimensional Array Representation of State-transition Model Dynamics"
 collection: publications
 permalink: /publication/2020-01-28-multidimensional-array
-excerpt: 'This paper is about the use of multimensional arrays to represent and store transition dynamics of simulated cohorts with state-transition models'
+excerpt: 'This paper is about the use of multimensional arrays to represent and store transition dynamics of simulated cohorts with state-transition models.'
 date: 2020-01-28
 venue: 'Medical Decision Making'
 paperurl: 'https://doi.org/10.1177/0272989X19893973'
