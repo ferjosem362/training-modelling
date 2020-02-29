@@ -7,10 +7,10 @@ venue: "41st Annual North American Meeting of SMDM"
 date: 2019-10-20
 location: "Portland, OR"
 ---
-## [Hands-on Model Calibration in R](https://smdm.confex.com/smdm/2019/meetingapp.cgi/Session/2981) 
+[Hands-on Model Calibration in R](https://smdm.confex.com/smdm/2019/meetingapp.cgi/Session/2981) is a short course aimed at researchers that want to learn how to calibrate mathematical models in R.
 
 ### Background
-In developing mathematical models of disease processes for medical decision making, there are often a subset of model parameters that cannot be observed for physical, practical, or ethical reasons. For example, cancer progression rates prior to detection cannot, by definition, be directly observed. Calibration is the process by which values of uncertain or unknown parameters are estimated such that model outputs match observed clinical or epidemiological data (“calibration targets”). Generally, calibration involves two main components: 1) a strategy for searching through the space of the unknown parameters; and 2) a goodness-of-fit measure that reflects how well a set of model outputs matches the target data. In this course, we will cover how to implement different approaches to each of these steps in R. We will also provide guidance on the pros and cons of different approaches and the circumstances under which some approaches may be more appropriate than others.
+In developing mathematical models of disease processes for medical decision making, there are often a subset of model parameters that cannot be observed for physical, practical, or ethical reasons. For example, cancer progression rates prior to detection cannot, by definition, be directly observed. Calibration is the process by which values of uncertain or unknown parameters are estimated such that model outputs match observed clinical or epidemiological data ("calibration targets"). Generally, calibration involves two main components: 1) a strategy for searching through the space of the unknown parameters; and 2) a goodness-of-fit measure that reflects how well a set of model outputs matches the target data. In this course, we will cover how to implement different approaches to each of these steps in R. We will also provide guidance on the pros and cons of different approaches and the circumstances under which some approaches may be more appropriate than others.
 
 ### Course Type
 Half day short course
