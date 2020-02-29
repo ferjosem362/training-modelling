@@ -8,7 +8,7 @@ date: 2020-02-04
 location: "Aguascalientes, Mexico"
 ---
 
-This course is aimed at students of the Bachelors in Public Policy [(LPP)](https://www.cide.edu/programa/lpp/?seccion=introduccion) who need rigorous knowledge of probability and statistics with public policy applications.
+This course is aimed at students of the Bachelors in Public Policy [(LPP)](https://www.cide.edu/programa/lpp/?seccion=introduccion) who need rigorous knowledge of the theory and and applications of the linear regression model por policy analysis.
 
 Course description
 ======
