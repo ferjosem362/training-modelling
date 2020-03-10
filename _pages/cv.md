@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+Employment
+======
+* 2018 - Assistant Porfessor
+    * [Drug Policy Program](http://www.politicadedrogas.org/PPD/), [Center for Research and Teaching in Economics (CIDE)](https://www.cide.edu), Aguascalientes, Mexico
+
 Education
 ======
 * Ph.D in [*Health Services Research, Policy & Administration*](https://www.sph.umn.edu/academics/degrees-programs/phd/hsrpa/), [University of Minnesota](http://www.umn.edu) [School of Public Health](https://www.sph.umn.edu), 2017 
@@ -18,18 +23,24 @@ Education
 * B.S. in *Biomedical Engineering*, Universidad Autónoma Metropolitana, Iztapalapa (UAM-I), 2006
 * M.S. in *Economics*, [Center for Research and Teaching in Economics (CIDE)](www.cide.edu), 2007
 
-Work experience
+Awards and honors
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **2019** Mexican National System of Researchers (SNI) Level I. Mexico's National Council of Science and Technology (CONACyT)
+* **2019** Best short course at the 2018 Society for Medical Decision Making (SMDM) North American Meeting for the short course titled "Hands-on Model Calibration in R"
+* **2018** Catedrático CONACyT
+* **2018** [Elected as a Trustee of the Society for Medical Decision Making](http://smdm.org/news/detail/introducing-the-2018-2019-officers-and-trustees)
+* **2017** [Delta Omega Honorary Society in Public Health, Pi Chapter](http://sphalumni.umn.edu/s/1604/01-sph/index.aspx?sid=1604&gid=1&verbiagebuilder=1&pgid=410)
+* **2016** University of Minnesota Doctoral Dissertation Fellowship
+* **2016** SMDM Lee B. Lusted Student Prize for Outstanding Student Research (Europe)
+* **2016** University of Minnesota Best Presentation at School of Public Health's Research Day
+* **2015** SMDM Lee B. Lusted Student Prize in Quantitative Methods and Theoretical Developments
+* **2014** SMDM Lee B. Lusted Student Prize in Quantitative Methods and Theoretical Developments
+* **2014** 18th Minnesota Health Services Research Conference Second Place Student Paper Competition
+* **2012** Mexico's CONACyT Doctoral Fellowship
+* **2012** Fulbright-Garcia Robles Doctoral Fellowship
+* **2012** University of Minnesota School of Public Health Doctoral Dean's Scholarship
+* **2007** Mexico's CONACyT Graduate Fellowship for Masters Studies
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
 * Skill 1
