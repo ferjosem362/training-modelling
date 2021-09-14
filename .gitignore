@@ -1,3 +1,6 @@
 _site/
 
 .Rproj.user
+ 
+# Mac OS
+.DS_Store
