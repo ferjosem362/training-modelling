@@ -47,12 +47,14 @@ Awards and honors
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Decision sciences
+  * Simulation modeling
+  * Uncertainty quantification
+  * Calibration
+* Health policy analysis
+* Cost-effectiveness analysis
+* Value of information
+* Bayesian statistics
 
 Publications
 ======
