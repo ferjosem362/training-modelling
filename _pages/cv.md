@@ -18,7 +18,7 @@ Employment
 
 Education
 ======
-* Ph.D in [*Health Services Research, Policy & Administration*](https://www.sph.umn.edu/academics/degrees-programs/phd/hsrpa/), [University of Minnesota](http://www.umn.edu) [School of Public Health](https://www.sph.umn.edu), 2017 
+* Ph.D. in [*Health Services Research, Policy & Administration*](https://www.sph.umn.edu/academics/degrees-programs/phd/hsrpa/), [University of Minnesota](http://www.umn.edu) [School of Public Health](https://www.sph.umn.edu), 2017 
     * Area of Emphasis: Health Decision Sciences
     * Advisors: [Karen M. Kuntz, ScD](https://directory.sph.umn.edu/bio/sph-a-z/karen-kuntz) and [Eva A. Enns, PhD](https://directory.sph.umn.edu/bio/sph-a-z/eva-enns)
     * Thesis: Statistical and mathematical modeling to evaluate the cost-effectiveness of Helicobacter pylori screening and treatment strategies in Mexico in the setting of antibiotic resistance
@@ -27,6 +27,8 @@ Education
 
 Awards and honors
 ======
+* **2021** [Editorial Board of the Medical Decision Making (MDM) journals ([Medical Decision Making](https://journals.sagepub.com/home/mdm) and [MDM Policy & Practice)](https://journals.sagepub.com/home/mpp)
+* **2020** [Society for Medical Decision Making (SMDM) COVID-19 Decision Modeling Initiative (CDMI) Leader](https://nursing.jhu.edu/alumni-giving/giving/covid-decision-modeling/smdm-covid-19-decision-modeling-grant.html)
 * **2019** Mexican National System of Researchers (SNI) Level I. Mexico's National Council of Science and Technology (CONACyT)
 * **2019** Best short course at the 2018 Society for Medical Decision Making (SMDM) North American Meeting for the short course titled "Hands-on Model Calibration in R"
 * **2018** Catedrático CONACyT
