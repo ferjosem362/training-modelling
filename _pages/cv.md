@@ -11,8 +11,10 @@ redirect_from:
 
 Employment
 ======
-* 2018 - Assistant Porfessor
-    * [Drug Policy Program](http://www.politicadedrogas.org/PPD/), [Center for Research and Teaching in Economics (CIDE)](https://www.cide.edu), Aguascalientes, Mexico
+* 2020 - Assistant Professor
+    * [Division of Public Administration](http://www.cide.edu/dap/), [Center for Research and Teaching in Economics (CIDE)](https://www.cide.edu) Región Centro, Aguascalientes, Mexico
+* 2018-2020 - Assistant Professor
+    * [Drug Policy Program](https://politicadedrogas.org), [Center for Research and Teaching in Economics (CIDE)](https://www.cide.edu) Región Centro, Aguascalientes, Mexico
 
 Education
 ======
