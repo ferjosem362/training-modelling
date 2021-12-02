@@ -1,0 +1,15 @@
+---
+title: "Trade-offs Between Efficacy and Cardiac Toxicity of Adjuvant Chemotherapy in Early-Stage Breast Cancer Patients: Do Competing Risks Matter?"
+collection: publications
+permalink: /publication/2017-01-24-trade-offs
+excerpt: ''
+date: 2017-01-24
+venue: 'The Breast Journal'
+paperurl: 'https://doi.org/10.1111/tbj.12757'
+citation: 'Alarid-Escudero F, Blaes A, Kuntz KM. Trade-offs between efficacy and cardiac toxicity of adjuvant chemotherapy in early-stage breast cancer patients: Do competing risks matter? The Breast Journal, 2017;23(4):401-9.'
+---
+
+## Abstract
+Evidence about treatment efficacy and long-term toxicities for adjuvant chemotherapy in patients with early-stage breast cancer is often presented in different formats and studies. This leads to challenges for patients and their physicians to adequately weigh the trade-offs between effectiveness and long-term cardiac toxicity when making decisions about adjuvant chemotherapy. We used a decision-analytic framework to quantify these trade-offs by combining the available evidence into a single, comparable metric. We developed a Markov model to simulate a hypothetical cohort of newly diagnosed breast cancer patients under three scenarios: no treatment, anthracycline (AC)-based adjuvant chemotherapy (more effective but also more cardiotoxic), and non-AC-based adjuvant chemotherapy. We derived the model parameters from medical literature (e.g., clinical trials). Our primary outcome is 10-year mortality, and other metrics such as cause of death; life years (LYs) and quality-adjusted LYs over 10 years were evaluated in sensitivity analysis. For 55-year-old women with a 10-year risk of metastatic recurrence <12.5% no chemotherapy resulted in the preferred strategy. In general, non-AC-based adjuvant chemotherapy resulted in lower 10-year mortality than AC-based chemotherapy. Patients with low risk of metastatic recurrence are better off without adjuvant chemotherapy regardless of the outcome considered (i.e., the risks of cardiac toxicity from chemotherapy outweighed the benefits). Trade-offs between effectiveness and induced cardiac toxicity impact health outcomes. The choice of adjuvant treatment must consider the patient's risk of distant recurrence and the quality of life associated with different health outcomes.
+
+[Download paper here](https://doi.org/10.1111/tbj.12757).
