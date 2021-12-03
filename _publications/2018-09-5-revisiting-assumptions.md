@@ -22,4 +22,4 @@ Empirical mixing provided a better fit to the Natsal-3 data than the best-fittin
 ### Conclusions
 An empirical mixing structure more accurately represents sexual mixing survey data, and using the less accurate, yet commonly-used A-P structure has a notable effect on estimates of HPV vaccination benefits. This underscores the need for mixing structures that are less dependent on unverified assumptions and are directly informed by sexual behavior data.
 
-[Download paper here](https://doi.org/10.1016/j.vaccine.2018.07.058) and the accompanying R package can be downloaded [here](https://zenodo.org/record/1322780#.Xcn4Yy2ZPOQ).
+[Download paper here](https://doi.org/10.1016/j.vaccine.2018.07.058) and the accompanying R code can be downloaded [here](https://zenodo.org/record/1322780#.Xcn4Yy2ZPOQ).
