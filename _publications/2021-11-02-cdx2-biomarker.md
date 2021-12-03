@@ -23,4 +23,4 @@ Testing for CDX2 followed by FOLFOX for CDX2-negative patients had an incrementa
 Testing tumors of patients with stage II colon cancer for CDX2 and administration of adjuvant treatment to the subgroup found CDX2-negative is a cost-effective and high-value management strategy across a broad range of plausible assumptions.
 
 
-[Download paper here](https://doi.org/10.1016/j.jval.2021.07.019)
+[Download paper here](https://doi.org/10.1016/j.jval.2021.07.019) and the accompanying R package can be downloaded [here](https://github.com/feralaes/cdx2cea).
