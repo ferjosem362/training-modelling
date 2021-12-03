@@ -21,5 +21,5 @@ Following high levels of holiday contacts even with no in-person schooling, MCMA
 ### Conclusion
 MCMA must increase COVID-19 hospital capacity under all scenarios considered. MCMA’s ability to reopen schools in early 2021 depends on sustaining physical distancing and on controlling contacts during the end-of-year holiday.
                                                                                                         
-[Download paper here](https://doi.org/10.1177/23814683211049249).
+[Download paper here](https://doi.org/10.1177/23814683211049249) and the accompanying R package can be downloaded [here](https://github.com/SC-COSMO/sccosmomcma).
                                                                                                         
