@@ -5,7 +5,7 @@ permalink: /software/2021-08-30-time-dependent-cohort
 excerpt: ''
 date: 2021-08-30
 venue: 'Zenodo'
-paperurl: 'https://zenodo.org/badge/latestdoi/357371663'
+softwareurl: 'https://zenodo.org/badge/latestdoi/357371663'
 citation: 'Alarid-Escudero F, Krijkamp EM, Enns EA, Yang A, Hunink MGM, Pechlivanoglou P, Jalal H (2021). R Code for A Tutorial on Time-Dependent Cohort State-Transition Models in R using a Cost-Effectiveness Analysis Example (Version v0.1.0). Zenodo. 10.5281/zenodo.5338819.'
 ---
 
