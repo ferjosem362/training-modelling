@@ -1,9 +1,9 @@
 ---
 title: "Revisiting assumptions about age-based mixing representations in mathematical models of sexually transmitted infections"
 collection: publications
-permalink: /publication/2018-09-5-revisiting-assumptions
-excerpt: ''
-date: 2018-09-5
+permalink: /publication/2018-09-05-revisiting-assumptions
+excerpt: 'In this paper, we compare the fit of different mixing representations to survey data and the impact of different mixing assumptions on the predicted benefits of hypothetical human papillomavirus (HPV) vaccine strategies.'
+date: 2018-09-05
 venue: 'Vaccine'
 paperurl: 'https://doi.org/10.1016/j.vaccine.2018.07.058'
 citation: 'Easterly CA, Alarid-Escudero F, Enns EA, Kulasingam S. Revisiting Assumptions about AgeBased Mixing Representations in Mathematical Models of Sexually Transmitted Infections. Vaccine, 2018;36(37):5572-5579.'
