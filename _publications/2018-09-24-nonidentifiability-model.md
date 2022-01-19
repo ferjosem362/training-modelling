@@ -2,7 +2,7 @@
 title: "Nonidentifiability in Model Calibration and Implications for Medical Decision Making"
 collection: publications
 permalink: /publication/2018-09-24-nonidentifiability-model
-excerpt: ''
+excerpt: 'In this paper, a 3-state Markov model of cancer relative survival (RS) is used to evaluate the implications of nonidentifiability on the optimal strategy.'
 date: 2018-09-24
 venue: 'Medical Decision Making'
 paperurl: 'https://doi.org/10.1177/0272989X18792283'
