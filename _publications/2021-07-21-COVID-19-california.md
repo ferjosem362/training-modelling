@@ -2,7 +2,7 @@
 title: "COVID-19 in the California State Prison System: an Observational Study of Decarceration, Ongoing Risks, and Risk Factors"
 collection: publications
 permalink: /publication/2021-07-21-COVID-19-california
-excerpt: ''
+excerpt: 'In this paper, we aim to quantify changes to California’s prison population since the pandemic began and identify risk factors for COVID-19 infection. We used Cox proportional hazard models to estimate the association between rates of COVID-19 infection and room occupancy and out-of-room labor, respectively.'
 date: 2021-07-21
 venue: 'Journal of General Internal Medicine'
 paperurl: 'https://doi.org/10.1007/s11606-021-07022-x'
