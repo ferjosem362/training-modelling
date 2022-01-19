@@ -2,9 +2,9 @@
 title: "Dependence of COVID-19 Policies on End-of-Year Holiday Contacts in Mexico City Metropolitan Area: A Modeling Study"
 collection: publications
 permalink: /publication/2021-10-11-dependence-covid
-excerpt: 'MDM Policy & Practice'
+excerpt: 'We used the Stanford-CIDE Coronavirus Simulation Model (SC-COSMO) to show that there is a high probability that the hospital capacity of the Mexico City Metropolitan Area will be outstripped by early January 2021. The SC-COSMO is a dynamic transmission model that accounts for realistic contact patterns based on adjusted population density and community and household transmission.'
 date: 2021-10-11
-venue: 'Medical Decision Making'
+venue: 'MDM Policy & Practice'
 paperurl: 'https://doi.org/10.1177/23814683211049249'
 citation: 'Alarid-Escudero, F., Gracia, V., Luviano, A., Roa, J., Peralta, Y., Reitsma, M. B., Claypool, A. L., Salomon, J. A., Studdert, D. M., Andrews, J. R., & Goldhaber-Fiebert, J. D. (2021). Dependence of COVID-19 Policies on End-of-Year Holiday Contacts in Mexico City Metropolitan Area: A Modeling Study. MDM Policy & Practice. https://doi.org/10.1177/23814683211049249.'
 ---
