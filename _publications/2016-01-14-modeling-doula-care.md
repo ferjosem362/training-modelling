@@ -2,7 +2,7 @@
 title: "Modeling the Cost-Effectiveness of Doula Care Associated with Reductions in Preterm Birth and Cesarean Delivery"
 collection: publications
 permalink: /publication/2016-01-14-modeling-doula-care
-excerpt: ''
+excerpt: 'In this paper, a probabilistic decision-analytic model was used to estimate the cost-effectiveness of Medicaid coverage of doula services. Cost-effectiveness analyses indicate potential savings associated with doula support reimbursed at an average of <span>&#36;</span>986.'
 date: 2016-01-14
 venue: 'Birth'
 paperurl: 'https://doi.org/10.1111/birt.12218'
@@ -17,7 +17,7 @@ One in nine US infants is born before 37 weeks' gestation, incurring medical cos
 Data came from two sources: all Medicaid-funded, singleton births at hospitals in the West North Central and East North Central US (n = 65,147) in the 2012 Nationwide Inpatient Sample, and all Medicaid-funded singleton births (n = 1,935) supported by a community-based doula organization in the Upper Midwest from 2010 to 2014. We analyzed routinely collected, de-identified administrative data. Multivariable regression analysis was used to estimate associations between doula care and outcomes. A probabilistic decision-analytic model was used for cost-effectiveness estimates.
 
 ### Results
-Women who received doula support had lower preterm and cesarean birth rates than Medicaid beneficiaries regionally (4.7 vs 6.3%, and 20.4 vs 34.2%). After adjustment for covariates, women with doula care had 22 percent lower odds of preterm birth (AOR 0.77 [95% CI 0.61–0.96]). Cost-effectiveness analyses indicate potential savings associated with doula support reimbursed at an average of &#36;986 (ranging from &#36;929 to &#36;1,047 across states).
+Women who received doula support had lower preterm and cesarean birth rates than Medicaid beneficiaries regionally (4.7 vs 6.3%, and 20.4 vs 34.2%). After adjustment for covariates, women with doula care had 22 percent lower odds of preterm birth (AOR 0.77 [95% CI 0.61–0.96]). Cost-effectiveness analyses indicate potential savings associated with doula support reimbursed at an average of <span>&#36;</span>986 (ranging from <span>&#36;</span>929 to <span>&#36;</span>1,047 across states).
 
 ### Conclusions
 Based on associations between doula care and preterm and cesarean birth, coverage reimbursement for doula services would likely be cost saving or cost-effective for state Medicaid programs.
