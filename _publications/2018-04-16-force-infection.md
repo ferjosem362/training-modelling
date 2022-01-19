@@ -2,7 +2,7 @@
 title: "Force of infection of Helicobacter pylori in Mexico: evidence from a national survey using a hierarchical Bayesian model"
 collection: publications
 permalink: /publication/2018-04-16-force-infection
-excerpt: ''
+excerpt: 'In this article, we estimated the age-specific rate at which susceptibles acquire infection (force of infection) of Helicobacter pylori in Mexico.'
 date: 2018-04-16
 venue: 'Epidemiology and Infection'
 paperurl: 'https://doi.org/10.1017/S0950268818000857'
