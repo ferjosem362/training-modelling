@@ -2,7 +2,7 @@
 title: "Trade-offs Between Efficacy and Cardiac Toxicity of Adjuvant Chemotherapy in Early-Stage Breast Cancer Patients: Do Competing Risks Matter?"
 collection: publications
 permalink: /publication/2017-01-24-trade-offs
-excerpt: ''
+excerpt: 'In this paper, a decision-analytic framework is used to quantify the trade-offs between effectiveness and long-term cardiac toxicity of adjuvant chemotherapy by combining the available evidence into a single, comparable metric. It is developed a Markov model to simulate a hypothetical cohort of newly diagnosed breast cancer patients under three scenarios: no treatment, anthracycline (AC)-based adjuvant chemotherapy (more effective but also more cardiotoxic), and non-AC-based adjuvant chemotherapy.'
 date: 2017-01-24
 venue: 'The Breast Journal'
 paperurl: 'https://doi.org/10.1111/tbj.12757'
