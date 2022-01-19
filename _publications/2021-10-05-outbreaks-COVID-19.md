@@ -2,7 +2,7 @@
 title: "Outbreaks of COVID-19 variants in US prisons: a mathematical modelling analysis of vaccination and reopening policies"
 collection: publications
 permalink: /publication/2021-10-05-outbreaks-COVID-19
-excerpt: ''
+excerpt: 'In this study, we used simulation modelling to assess how the size and consequences of COVID-19 outbreaks stemming from the introduction of a viral variant into a US prison depend on baseline immunity, vaccine coverage, and whether and how activities are resumed.'
 date: 2021-10-05
 venue: 'The Lancet Public Health'
 paperurl: 'https://doi.org/10.1016/S2468-2667(21)00162-6'
