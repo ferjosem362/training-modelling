@@ -2,7 +2,7 @@
 title: "Registro de señales de EEG para aplicaciones de Interfaz Cerebro Computadora (ICC) basado en Potenciales Evocados Visuales de Estado Estacionario (PEVEE)"
 collection: publications
 permalink: /publication/2007-01-01-registro-señales
-excerpt: ''
+excerpt: 'This paper presents an implementation of an effective synchronization between a registration and a stimulation module that are part of a steady state visual evoked potential (SSVEP)-based Brain Computer Interface (BCI).'
 date: 2007-01-01
 venue: 'CLAIB 2007 IFMBE Proceedings'
 paperurl: 'https://doi.org/10.1007/978-3-540-74471-9_21'
