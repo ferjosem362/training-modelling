@@ -2,7 +2,7 @@
 title: "Retention in Care, Mortality, Loss-to-Follow-Up, and Viral Suppression among Antiretroviral Treatment-Naïve and Experienced Persons Participating in a Nationally Representative HIV Pre-Treatment Drug Resistance Survey in Mexico."
 collection: publications
 permalink: /publication/2021-12-01-retention-care
-excerpt: ''
+excerpt: 'In this paper, we describe associations of pretreatment drug resistance (PDR) with clinical outcomes such as remaining in care, loss to follow-up (LTFU), viral suppression, and death in Mexico. The study was conducted in real-life clinical settings.'
 date: 2021-12-01
 venue: 'Pathogens'
 paperurl: 'https://doi.org/10.3390/pathogens10121569'
