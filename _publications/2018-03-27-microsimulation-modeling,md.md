@@ -2,7 +2,7 @@
 title: "Microsimulation Modeling for Health Decision Sciences Using R: A Tutorial"
 collection: publications
 permalink: /publication/2018-03-27-microsimulation-modeling
-excerpt: ''
+excerpt: 'In this tutorial, we provide a step-by-step guide to build microsimulation models in R and illustrate the use of this guide on a simple, but transferable, hypothetical decision problem.'
 date: 2018-03-27
 venue: 'Medical Decision Making'
 paperurl: 'https://doi.org/10.1177/0272989X18754513'
