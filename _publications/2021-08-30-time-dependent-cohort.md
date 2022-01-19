@@ -2,7 +2,7 @@
 title: "A Tutorial on Time-Dependent Cohort State-Transition Models in R using a Cost-Effectiveness Analysis Example"
 collection: publications
 permalink: /publication/2021-08-30-time-dependent-cohort
-excerpt: ''
+excerpt: 'This tutorial shows how to implement time-dependent cohort state-transition models (cSTMs) to conduct cost-effectiveness analyses (CEA) in R, where transition probabilities and rewards vary by time.'
 date: 2021-08-30
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2108.13552'
