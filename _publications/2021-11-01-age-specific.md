@@ -2,7 +2,7 @@
 title: "Age-specific rates of onset of cannabis use in Mexico"
 collection: publications
 permalink: /publication/2021-11-01-age-specific
-excerpt: ''
+excerpt: 'In this study, we estimate the age-specific rates of onset of cannabis use in Mexico between 1998 and 2016. We found that across recent cohorts, the rates of onset have increased for both males and females, but at a faster rate among females.'
 date: 2021-11-01
 venue: 'Addictive Behaviors'
 paperurl: 'https://doi.org/10.1016/j.addbeh.2021.107038'
