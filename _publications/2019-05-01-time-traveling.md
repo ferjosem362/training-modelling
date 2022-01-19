@@ -2,7 +2,7 @@
 title: "“Time Traveling Is Just Too Dangerous” but Some Methods Are Worth Revisiting: The Advantages of Expected Loss Curves Over Cost-Effectiveness Acceptability Curves and Frontier"
 collection: publications
 permalink: /publication/2019-05-01-time-traveling
-excerpt: ''
+excerpt: 'This paper is about the use of a probabilistic sensitivity analysis of a CEA that compares 6 cerebrospinal fluid biomarker test-and-treat strategies in patients with mild cognitive impairment. The results illustrate the limitations of currently recommended methods for communicating uncertainty and the demonstrated that ELCs provide a more comprehensive representation of uncertainty.'
 date: 2019-05-01
 venue: 'Value in Health'
 paperurl: 'https://doi.org/10.1016/j.jval.2019.02.008'
