@@ -2,7 +2,7 @@
 title: "An Overview of R in Health Decision Sciences"
 collection: publications
 permalink: /publication/2017-01-06-overview-R
-excerpt: ''
+excerpt: 'This article provides an overview of existing R functionality that is applicable to the various stages of decision analysis, including model design, input parameter estimation, an analysis of model outputs.'
 date: 2017-01-06
 venue: 'Medical Decision Making'
 paperurl: 'https://doi.org/10.1177/0272989X16686559'
