@@ -2,7 +2,7 @@
 title: "A Cost-effectiveness Analysis of Systemic Therapy for Metastatic Hormone-sensitive Prostate Cancer"
 collection: publications
 permalink: /publication/2019-11-01-cost-effectiveness-systemic
-excerpt: ''
+excerpt: 'In this paper, we performed a cost-effectiveness analysis of immediate docetaxel or abiraterone acetate treatment in addition to ADT in men with metastatic hormone-sensitive prostate cancer (PC).'
 date: 2019-11-01
 venue: 'European Urology Oncology'
 paperurl: 'https://doi.org/10.1016/j.euo.2019.01.004'
@@ -22,7 +22,7 @@ We developed a state-transition model to simulate the natural progression of met
 The outcomes measured were quality-adjusted life years (QALYs) and costs from a US private payer, health sector perspective.
 
 ### Results and limitations
-Compared to treatment with ADT alone, docetaxel and abiraterone resulted in a discounted quality-adjusted survival gain of 3.6 and 22.0 mo, respectively. Using standard cost-effectiveness metrics, treatment with docetaxel and ADT provides high value for money (ie, is cost effective) with an incremental cost-effectiveness ratio (ICER) of &#36;34 723, compared to an ICER of &#36;295 212 for abiraterone. The monthly cost of abiraterone would have to be less than &#36;3114 for it to be cost effective.
+Compared to treatment with ADT alone, docetaxel and abiraterone resulted in a discounted quality-adjusted survival gain of 3.6 and 22.0 mo, respectively. Using standard cost-effectiveness metrics, treatment with docetaxel and ADT provides high value for money (ie, is cost effective) with an incremental cost-effectiveness ratio (ICER) of <span>&#36;</span>34 723, compared to an ICER of <span>&#36;</span>295 212 for abiraterone. The monthly cost of abiraterone would have to be less than <span>&#36;</span>3114 for it to be cost effective.
 
 ### Conclusions
 Docetaxel + ADT is likely the most cost-effective treatment option for men with metastatic hormone-sensitive PC. Although potentially more effective than docetaxel, the costs of abiraterone would have to be considerably lower to match the cost effectiveness of docetaxel + ADT.
