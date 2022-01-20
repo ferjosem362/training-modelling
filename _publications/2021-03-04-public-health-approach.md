@@ -2,7 +2,7 @@
 title: "Towards a Public Health Approach to Homicides in Mexico"
 collection: publications
 permalink: /publication/2021-03-04-public-health-approach
-excerpt: ''
+excerpt: 'In this paper, we analyzed publicly available data in Mexico from 1998 to 2019 to calculate homicide rates and compare them to other causes of death stratified by age and sex. This study reveals important patterns of homicide deaths that can inform national and regional public health policy.'
 date: 2021-03-04
 venue: 'SSRN'
 paperurl: 'https://dx.doi.org/10.2139/ssrn.3795313'
