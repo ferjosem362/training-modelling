@@ -2,7 +2,7 @@
 title: "How do Covid-19 policy options depend on end-of-year holiday contacts in Mexico City Metropolitan Area? A Modeling Study"
 collection: publications
 permalink: /publication/2020-12-22-Covid-19-policy
-excerpt: ''
+excerpt: 'In this paper, we use SC-COSMO, a dynamic compartmental Covid-19 model, to evaluate scenarios considering combinations of increased contacts during the holiday season, intensification of social distancing, and school reopening in Mexico City Metropolitan Area.'
 date: 2020-12-22
 venue: 'medRxiv '
 paperurl: 'https://doi.org/10.1101/2020.12.21.20248597'
