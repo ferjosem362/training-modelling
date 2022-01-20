@@ -1,7 +1,7 @@
 ---
 title: "Hands-on Model Calibration in R"
 collection: teaching
-type: "Shourt course"
+type: "Short course"
 permalink: /teaching/2019-fall-smdm-calibration
 venue: "41st Annual North American Meeting of SMDM"
 date: 2019-10-20
