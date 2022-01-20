@@ -2,7 +2,7 @@
 title: "Computing the Expected Value of Sample Information Efficiently: Practical Guidance and Recommendations for Four Model-Based Methods"
 collection: publications
 permalink: /publication/2020-05-27-computing-expected-value
-excerpt: ''
+excerpt: 'This report provides practical guidance and recommendations to help inform the choice between 4 expected value of sample information (EVSI) estimation methods.'
 date: 2020-05-27
 venue: 'Value in Health'
 paperurl: 'https://doi.org/10.1016/j.jval.2020.02.010'
