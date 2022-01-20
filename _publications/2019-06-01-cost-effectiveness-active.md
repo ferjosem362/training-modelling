@@ -2,7 +2,7 @@
 title: "Cost-effectiveness Analysis of Active Surveillance Strategies for Men with Low-risk Prostate Cancer"
 collection: publications
 permalink: /publication/2019-06-01-cost-effectiveness-active
-excerpt: ''
+excerpt: 'In this paper, we developed a state-transition Markov model to assess the costs and benefits of different Active surveillance (AS) follow-up strategies compared to watchful waiting (WW) or immediate treatment.'
 date: 2019-06-01
 venue: 'European Urology'
 paperurl: 'https://doi.org/10.1016/j.eururo.2018.10.055'
@@ -19,10 +19,10 @@ To assess the costs and benefits of different AS follow-up strategies compared t
 A state-transition Markov model was developed to simulate the natural history (ie, no testing or intervention) of prostate cancer for a hypothetical cohort of 50-yr-old men newly diagnosed with low-risk prostate cancer. Following diagnosis, men were hypothetically managed with immediate treatment, watchful waiting, or one of several AS strategies. AS follow-up was performed either with transrectal ultrasound-guided biopsy or magnetic resonance imaging (MRI) which was scheduled annually, biennially, every 3 yrs, according to the PRIAS protocol (yrs 1, 4, 7, and 10, and then every 5 yr) or every 5 yr. Diagnosis of higher-grade or -stage disease while on AS resulted in curative treatment.
 
 ### Outcome measurements and statistical analysis
-We measured discounted quality-adjusted life years (QALYs), discounted lifetime medical costs (2017 US&#36;), and incremental cost-effectiveness ratios (ICERs).
+We measured discounted quality-adjusted life years (QALYs), discounted lifetime medical costs (2017 US<span>&#36;</span>), and incremental cost-effectiveness ratios (ICERs).
 
 ### Results and limitations
-Compared to WW, MRI-based surveillance performed every 5 yr improved quality-adjusted survival by 4.47 quality-adjusted months and represented high-value health care at the Medicare reimbursement rate using standard cost-effectiveness metrics. Biopsy-based strategies were less effective and less costly than the corresponding MRI-based strategies for each testing interval. MRI-based surveillance at more frequent intervals had ICERs greater than &#36;800 000 per QALY and would not be considered cost-effective according to standard metrics. Our results were sensitive to the diagnostic accuracy and costs of both biopsy modes in detecting clinically significant cancer.
+Compared to WW, MRI-based surveillance performed every 5 yr improved quality-adjusted survival by 4.47 quality-adjusted months and represented high-value health care at the Medicare reimbursement rate using standard cost-effectiveness metrics. Biopsy-based strategies were less effective and less costly than the corresponding MRI-based strategies for each testing interval. MRI-based surveillance at more frequent intervals had ICERs greater than <span>&#36;</span>800 000 per QALY and would not be considered cost-effective according to standard metrics. Our results were sensitive to the diagnostic accuracy and costs of both biopsy modes in detecting clinically significant cancer.
 
 ### Conclusions
 Incorporation of MRI into surveillance protocols at Medicare reimbursement rates and decreasing the intensity of repeat testing may be cost-effective options for men opting for conservative management of low-risk prostate cancer.
