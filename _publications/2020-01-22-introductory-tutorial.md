@@ -2,7 +2,7 @@
 title: "An Introductory Tutorial on Cohort State-Transition Models in R Using a Cost-Effectiveness Analysis Example"
 collection: publications
 permalink: /publication/2020-01-22-introductory-tutorial
-excerpt: ''
+excerpt: 'In this tutorial, we construct time-independent cohort state-transition models (cSTMs) using a previously published decision model, calculate costs and effectiveness outcomes, conduct a cost-effectiveness analysis of multiple strategies, and conduct a probabilistic sensitivity analysis.'
 date: 2020-01-22
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2001.07824'
