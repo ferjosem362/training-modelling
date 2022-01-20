@@ -2,7 +2,7 @@
 title: "Cost-effectiveness of prevention and early detection of gastric cancer in Western countries"
 collection: publications
 permalink: /publication/2021-03-01-cost-effectiveness-prevention
-excerpt: ''
+excerpt: 'In this paper, we provide an overview of modelling studies evaluating the cost-effectiveness of gastric cancer screening and surveillance in Western countries.'
 date: 2021-03-01
 venue: 'Best Practice & Research Clinical Gastroenterology'
 paperurl: 'https://doi.org/10.1016/j.bpg.2021.101735'
