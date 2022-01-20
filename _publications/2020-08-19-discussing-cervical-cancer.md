@@ -2,7 +2,7 @@
 title: "Discussing Cervical Cancer Screening Options: Outcomes to Guide Conversations Between Patients and Providers"
 collection: publications
 permalink: /publication/2020-08-19-discussing-cervical-cancer
-excerpt: ''
+excerpt: 'In this paper, a Markov decision model is used to estimate outcomes of strategies for cervical cancer screening recommended for women at age 30.'
 date: 2020-08-19
 venue: 'Medical Decision Making Policy & Practice'
 paperurl: 'https://doi.org/10.1177/2381468320952409'
