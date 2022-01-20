@@ -2,7 +2,7 @@
 title: "Calculating the Expected Value of Sample Information in Practice: Considerations from 3 Case Studies"
 collection: publications
 permalink: /publication/2020-04-26-calculating-expected-value
-excerpt: ''
+excerpt: 'In this paper, we compared 4 expected value of sample information (EVSI) methods using 3 previously published health economic models. The aim of the study was to compare these methods performance across realistic examples.'
 date: 2020-04-26
 venue: 'Medical Decision Making'
 paperurl: 'https://doi.org/10.1177/0272989X20912402'
