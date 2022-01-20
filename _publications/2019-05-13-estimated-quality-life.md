@@ -2,7 +2,7 @@
 title: "Estimated Quality of Life and Economic Outcomes Associated With 12 Cervical Cancer Screening Strategies A Cost-effectiveness Analysis"
 collection: publications
 permalink: /publication/2019-05-13-estimated-quality-life
-excerpt: ''
+excerpt: 'In this paper, we estimate the cost-effectiveness of 12 cervical cancer screening strategies.'
 date: 2019-05-13
 venue: 'JAMA Internal Medicine'
 paperurl: 'https://doi.org/10.1001/jamainternmed.2019.0299'
@@ -22,7 +22,7 @@ The cross-sectional portion of this study enrolled a convenience sample of 451 E
 Utilities for 23 cervical cancer screening–associated health states (cross-sectional study) and quality-adjusted life-years (QALYs) and total costs for each strategy.
 
 ### Results 
-Utilities were measured in a sociodemographically diverse group of 451 women (mean [SD] age, 38.2 [10.7] years; 258 nonwhite [57.2%]). Cytologic testing every 3 years with repeat cytologic testing for ASC-US yielded the most lifetime QALYs and conferred more QALYs at higher costs (&#36;2166 per QALY) than the lowest-cost strategy (cytologic testing every 3 years with hrHPV triage of ASC-US). All cytologic testing plus hrHPV testing (cotesting) and primary hrHPV testing strategies provided fewer QALYs at higher costs. Adding indirect costs did not change the conclusions. In sensitivity analyses, hrHPV testing every 5 years with genotyping triage beginning at age 30 years was the lowest-cost strategy when hrHPV test sensitivity was markedly higher than cytologic test sensitivity or when hrHPV test cost was equated to the lowest reported cytologic test cost (&#36;14).
+Utilities were measured in a sociodemographically diverse group of 451 women (mean [SD] age, 38.2 [10.7] years; 258 nonwhite [57.2%]). Cytologic testing every 3 years with repeat cytologic testing for ASC-US yielded the most lifetime QALYs and conferred more QALYs at higher costs (<span>&#36;</span>2166 per QALY) than the lowest-cost strategy (cytologic testing every 3 years with hrHPV triage of ASC-US). All cytologic testing plus hrHPV testing (cotesting) and primary hrHPV testing strategies provided fewer QALYs at higher costs. Adding indirect costs did not change the conclusions. In sensitivity analyses, hrHPV testing every 5 years with genotyping triage beginning at age 30 years was the lowest-cost strategy when hrHPV test sensitivity was markedly higher than cytologic test sensitivity or when hrHPV test cost was equated to the lowest reported cytologic test cost (<span>&#36;</span>14).
 
 ### Conclusions and Relevance 
 Cytologic testing every 3 years for women aged 21 to 29 years with either continued cytologic testing every 3 years or switching to a low-cost hrHPV test every 5 years confers a reasonable balance of benefits, harms, and costs. Comparative modeling is needed to confirm the association of these novel utilities with cost-effectiveness.
