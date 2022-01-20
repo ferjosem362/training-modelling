@@ -2,7 +2,7 @@
 title: "The Household Secondary Attack Rate of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2): A Rapid Review"
 collection: publications
 permalink: /publication/2021-08-01-household-secondary
-excerpt: ''
+excerpt: 'In this paper,  we gathered and analyzed data from 22 published and prepublished studies from 10 countries (20 291 household contacts). The aim of the study is to undestand the nature and determinants of household transmission.'
 date: 2021-08-01
 venue: 'Clinical Infectious Diseases'
 paperurl: 'https://doi.org/10.1093/cid/ciaa1558'
