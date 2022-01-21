@@ -1,10 +1,10 @@
 ---
 title: "Cost-Effectiveness and Decision Modeling using R"
 collection: teaching
-type: "Short course"
+type: "Workshop"
 permalink: /teaching/2021-cost-effectiveness-decision-modeling
-venue: "The Decision Analysis in R for Technologies in Health (DARTH)* workgroup in collaboration with the University of Minnesota Division of Health Policy and Management"
-date: 2019-08-23
+venue: "The Decision Analysis in R for Technologies in Health (DARTH) workgroup in collaboration with the University of Minnesota Division of Health Policy and Management"
+date: 2021-08-23
 location: "Online"
 ---
 [Cost-Effectiveness and Decision Modeling using R](https://www.sph.umn.edu/events-calendar/decision-modeling-using-r-workshop/) is a workshop aimed at researchers that are interested on cost-effectiveness and decision modeling using R.
