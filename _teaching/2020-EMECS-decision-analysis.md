@@ -7,9 +7,3 @@ venue: "1st School of Statistical Modeling for Social Sciences (EMECS), CIMAT"
 date: 2019-01-01
 location: "Aguascalientes, Mexico"
 ---
-
-Course description
-======
-
-Course goals and objectives
-======
