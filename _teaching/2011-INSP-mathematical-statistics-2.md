@@ -9,9 +9,3 @@ location: "Morelos, Mexico"
 ---
 
 This course is aimed at students of the Masters in Health Economics.
-
-Course description
-======
-
-Course goals and objectives
-======
