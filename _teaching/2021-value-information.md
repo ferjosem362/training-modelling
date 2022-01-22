@@ -7,9 +7,3 @@ venue: "CISNET 2021 Mid-year meeting"
 date: 2021-06-01
 location: "Online"
 ---
-
-Course description
-======
-
-Course goals and objectives
-======
