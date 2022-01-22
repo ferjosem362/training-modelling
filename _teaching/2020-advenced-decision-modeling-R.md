@@ -7,9 +7,3 @@ venue: "The Hospital for Sick Children"
 date: 2020-04-01
 location: "Toronto, Canada"
 ---
-
-Course description
-======
-
-Course goals and objectives
-======
