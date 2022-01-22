@@ -1,0 +1,14 @@
+---
+title: "Comparative Modeling to Inform Cervical Cancer Control Policies"
+collection: funding
+permalink: /funding/2020-modeling-cervical-cancer
+venue: "Harvard T.H. Chan School of Public Health (National Cancer Institute prime)"
+excerpt: "This projects will pursue analyses related to the impact of newly-revised screening and HPV vaccination guidelines, the comparative effectiveness of forthcoming screening and HPV vaccination strategies and approaches, optimal screening and vaccination strategies in women living with HIV, the optimal routes for reducing cervical cancer disparities, and the potential for cervical cancer elimination in the US, and optimal screening and vaccination strategies for women living with HIV."
+date: 2020-09-01
+Number: "U01CA253912"
+---
+
+## Abstract
+Despite successful cervical cancer screening in the United States (US), over 13,000 women develop and 4,000 women die from cervical cancer each year. The discovery of human papillomavirus (HPV) as the necessary cause of cervical cancer precipitated a surge of new evidence and development of innovative HPV-based technologies, both screening and prophylactic vaccination, that have allowed for significant changes in our approach to cervical cancer control over the past two decades. These new technologies represent tremendous opportunities for effective, equitable, and efficient cervical cancer programs in the US but also pose significant challenges for decision making. Given the limited availability of outcomes data for new screening and vaccination approaches from empirical studies, policy makers have become uniquely reliant on mathematical modeling to provide a synthesized evidence base for decision-making for cervical cancer control strategies. These models can be used to integrate the most up-to-date data, extrapolate short-term findings into long-term outcomes, and evaluate what-if scenarios that would otherwise be impractical or infeasible to conduct in clinical studies.
+
+This project will represent the continued, productive collaboration of five independent modeling groups from the US, Australia, and the Netherlands that will leverage a series of state of- the-art mathematical models of HPV and cervical carcinogenesis for comparative modeling. We will pursue analyses related to the impact of newly-revised screening and HPV vaccination guidelines, the comparative effectiveness of forthcoming screening and HPV vaccination strategies and approaches, optimal screening and vaccination strategies in women living with HIV, the optimal routes for reducing cervical cancer disparities, and the potential for cervical cancer elimination in the US, and optimal screening and vaccination strategies for women living with HIV. Our efforts will also involve wide dissemination of findings to various stakeholders to increase transparency and confidence in model-based analyses.
