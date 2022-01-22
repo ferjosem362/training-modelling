@@ -7,7 +7,3 @@ venue: "Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán"
 date: 2019-01-01
 location: "Mexico City, Mexico"
 ---
-
-Course Type
-======
-Half Day
