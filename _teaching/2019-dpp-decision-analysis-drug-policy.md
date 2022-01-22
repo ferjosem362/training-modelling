@@ -9,9 +9,3 @@ location: "Aguascalientes, Mexico"
 ---
 
 This course is aimed at students of Diploma in Drug Policy.
-
-Course description
-======
-
-Course goals and objectives
-======
