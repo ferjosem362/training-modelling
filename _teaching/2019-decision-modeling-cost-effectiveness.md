@@ -11,10 +11,3 @@ location: "Mexico City, Mexico"
 Course Type
 ======
 Half Day
-
-
-Course description
-======
-
-Course goals and objectives
-======
