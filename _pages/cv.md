@@ -27,9 +27,10 @@ Education
 
 Awards and honors
 ======
+* **2022** Mexican National System of Researchers (SNI) Level II. Mexico's National Council of Science and Technology (CONACyT)
 * **2021** Editorial Board of the Medical Decision Making (MDM) journals ([Medical Decision Making](https://journals.sagepub.com/home/mdm) and [MDM Policy & Practice](https://journals.sagepub.com/home/mpp))
 * **2020** [Society for Medical Decision Making (SMDM) COVID-19 Decision Modeling Initiative (CDMI) Leader](https://nursing.jhu.edu/alumni-giving/giving/covid-decision-modeling/smdm-covid-19-decision-modeling-grant.html)
-* **2019** Mexican National System of Researchers (SNI) Level I. Mexico's National Council of Science and Technology (CONACyT)
+* **2019** Mexican SNI Level I. Mexico's National Council of Science and Technology (CONACyT)
 * **2019** Best short course at the 2018 Society for Medical Decision Making (SMDM) North American Meeting for the short course titled "Hands-on Model Calibration in R"
 * **2018** Catedrático CONACyT
 * **2018** [Elected as a Trustee of the Society for Medical Decision Making](http://smdm.org/news/detail/introducing-the-2018-2019-officers-and-trustees)
