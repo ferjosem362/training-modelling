@@ -6,7 +6,7 @@ excerpt: 'This article contains an overview of methods for presenting uncertaint
 date: 2022-05-19
 venue: 'Medical Decision Making'
 paperurl: 'https://journals.sagepub.com/doi/full/10.1177/0272989X221100112'
-citation: 'Wolff HB, Qendri V, Kunst N, Alarid-Escudero F, Coupé VMH. Methods for communicating the impact of parameter uncertainty in a multiple strategies cost-effectiveness comparison. Medical Decision Making. 2022; 42(7):956-968.'
+citation: 'Wolff HB, Qendri V, Kunst N, Alarid-Escudero F, Coupé VMH. Methods for communicating the impact of parameter uncertainty in a multiple strategies cost-effectiveness comparison. Medical Decision Making. 2022;42(7):956-968.'
 ---
 ## Abstract
 Purpose
