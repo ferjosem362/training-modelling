@@ -11,7 +11,9 @@ redirect_from:
 
 Employment
 ======
-* 2020 - Assistant Professor
+* 2022- - Assistant Professor
+    * [Department of Health Policy](https://healthpolicy.fsi.stanford.edu/content/department-health-policy), [Stanford University](https://www.stanford.edu) [School of Medicine](https://med.stanford.edu), Stanford, CA, US
+* 2020-2022 - Assistant Professor
     * [Division of Public Administration](http://www.cide.edu/dap/), [Center for Research and Teaching in Economics (CIDE)](https://www.cide.edu) Región Centro, Aguascalientes, Mexico
 * 2018-2020 - Assistant Professor
     * [Drug Policy Program](https://politicadedrogas.org), [Center for Research and Teaching in Economics (CIDE)](https://www.cide.edu) Región Centro, Aguascalientes, Mexico
