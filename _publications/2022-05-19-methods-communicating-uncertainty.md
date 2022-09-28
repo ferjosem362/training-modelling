@@ -1,5 +1,5 @@
 ---
-title: "Methods for communicating the impact of parameter uncertainty in a multiple strategies cost-effectiveness comparison."
+title: "Methods for communicating the impact of parameter uncertainty in a multiple strategies cost-effectiveness comparison"
 collection: publications
 permalink: /publication/2022-05-19-methods-communicating-uncertainty
 excerpt: 'This article contains an overview of methods for presenting uncertainty in multiple-strategy cost-effectiveness analyses. Code in Microsoft Excel and R is provided to easily analyze data using the methods discussed in this article.'
