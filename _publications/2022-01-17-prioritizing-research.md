@@ -1,9 +1,9 @@
 ---
 title: "Prioritizing Research Informing Antibiotic Prophylaxis Guidelines for Knee Arthroplasty Patients"
 collection: publications
-permalink: /publication/2021-06-17-prioritizing-research
+permalink: /publication/2022-01-17-prioritizing-research
 excerpt: 'The results of this value-of-information analysis demonstrate that there is substantial uncertainty around clinical, health status, and economic parameters that may influence the antibiotic prophylaxis guidance for dental patients with total knee arthroplasty (TKA). The analysis supports the contention that conducting additional clinical research to reduce decision uncertainty is worth pursuing and will inform the antibiotic prophylaxis debate for clinicians and dental patients with prosthetic joints.'
-date: 2021-06-17
+date: 2022-01-17
 venue: 'JDR Clinical & Translational Research'
 paperurl: 'https://doi.org/10.1177/23800844211020272'
 citation: 'Kuntz KM, Alarid-Escudero F, Swiontkowski MF, and Skaar DD. “Prioritizing Research Informing Antibiotic Prophylaxis Guidelines for Knee Arthroplasty Patients.” JDR Clinical & Translational Research. 2022;7(3):298-306.'
