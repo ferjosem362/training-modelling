@@ -6,7 +6,7 @@ excerpt: 'The results of this value-of-information analysis demonstrate that the
 date: 2021-06-17
 venue: 'JDR Clinical & Translational Research'
 paperurl: 'https://doi.org/10.1177/23800844211020272'
-citation: 'Kuntz, K.M., Alarid-Escudero F., Swiontkowski M.F., and Skaar D.D.. “Prioritizing Research Informing Antibiotic Prophylaxis Guidelines for Knee Arthroplasty Patients.” JDR Clinical & Translational Research. 2022;7(3):298-306.'
+citation: 'Kuntz KM, Alarid-Escudero F, Swiontkowski MF, and Skaar DD. “Prioritizing Research Informing Antibiotic Prophylaxis Guidelines for Knee Arthroplasty Patients.” JDR Clinical & Translational Research. 2022;7(3):298-306.'
 ---
 ## Abstract
 ### Introduction
