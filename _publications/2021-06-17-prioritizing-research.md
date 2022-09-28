@@ -24,8 +24,5 @@ Using a willingness-to-pay threshold of <span>&#36;</span>100,000 per quality-ad
 ### Conclusion
 Given the uncertainties associated with AP guidelines for dental patients after TKA, we conclude there is value in conducting further research to inform the risk of PJI, effectiveness of AP, and quality-of-life values.
 
-### Knowledge Transfer Statement
-The results of this value-of-information analysis demonstrate that there is substantial uncertainty around clinical, health status, and economic parameters that may influence the antibiotic prophylaxis guidance for dental patients with total knee arthroplasty. The analysis supports the contention that conducting additional clinical research to reduce decision uncertainty is worth pursuing and will inform the antibiotic prophylaxis debate for clinicians and dental patients with prosthetic joints.
-
 
 [Download paper here](https://doi.org/10.1177/23800844211020272)
