@@ -6,7 +6,7 @@ excerpt: 'In this paper, we apply value-of-information (VOI) analysis to quantif
 date: 2021-06-17
 venue: 'JDR Clinical & Translational Research'
 paperurl: 'https://doi.org/10.1177/23800844211020272'
-citation: 'Kuntz, K.M., F. Alarid-Escudero, M.F. Swiontkowski, and D.D. Skaar. “Prioritizing Research Informing Antibiotic Prophylaxis Guidelines for Knee Arthroplasty Patients.” JDR Clinical & Translational Research, (June 2021). https://doi.org/10.1177/23800844211020272.'
+citation: 'Kuntz, K.M., F. Alarid-Escudero, M.F. Swiontkowski, and D.D. Skaar. “Prioritizing Research Informing Antibiotic Prophylaxis Guidelines for Knee Arthroplasty Patients.” JDR Clinical & Translational Research. 2022;7(3):298-306. https://doi.org/10.1177/23800844211020272.'
 ---
 ## Abstract
 ### Introduction
