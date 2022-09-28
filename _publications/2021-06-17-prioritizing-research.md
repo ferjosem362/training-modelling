@@ -2,7 +2,7 @@
 title: "Prioritizing Research Informing Antibiotic Prophylaxis Guidelines for Knee Arthroplasty Patients"
 collection: publications
 permalink: /publication/2021-06-17-prioritizing-research
-excerpt: 'In this paper, we apply value-of-information (VOI) analysis to quantify the value of conducting further clinical research to reduce decision uncertainty regarding the cost-effectiveness of AP strategies for dental patients undergoing total knee arthroplasty (TKA).'
+excerpt: 'The results of this value-of-information analysis demonstrate that there is substantial uncertainty around clinical, health status, and economic parameters that may influence the antibiotic prophylaxis guidance for dental patients with total knee arthroplasty (TKA). The analysis supports the contention that conducting additional clinical research to reduce decision uncertainty is worth pursuing and will inform the antibiotic prophylaxis debate for clinicians and dental patients with prosthetic joints.'
 date: 2021-06-17
 venue: 'JDR Clinical & Translational Research'
 paperurl: 'https://doi.org/10.1177/23800844211020272'
