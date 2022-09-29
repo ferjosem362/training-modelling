@@ -1,12 +1,12 @@
 ---
 title: "CDX2 Biomarker Testing and Adjuvant Therapy for Stage II Colon Cancer: An Exploratory Cost-Effectiveness Analysis"
 collection: publications
-permalink: /publication/2021-11-02-cdx2-biomarker
+permalink: /publication/2022-03-15-cdx2-biomarker
 excerpt: 'In this paper, we developed a decision model to evaluate the cost-effectiveness of testing for the absence of CDX2 expression followed by adjuvant chemotherapy (FOLFOX) for patients with stage II colon cancer.'
-date: 2021-11-02
+date: 2022-03-15
 venue: 'Value in Health'
 paperurl: 'https://doi.org/10.1016/j.jval.2021.07.019'
-citation: 'Fernando Alarid-Escudero, Deborah Schrag, Karen M. Kuntz, CDX2 Biomarker Testing and Adjuvant Therapy for Stage II Colon Cancer: An Exploratory Cost-Effectiveness Analysis, Value in Health, 2021, ISSN 1098-3015, https://doi.org/10.1016/j.jval.2021.07.019.'
+citation: 'Fernando Alarid-Escudero, Deborah Schrag, Karen M. Kuntz, CDX2 Biomarker Testing and Adjuvant Therapy for Stage II Colon Cancer: An Exploratory Cost-Effectiveness Analysis, Value in Health, 2022;25(3):409-418.'
 ---
 ## Abstract
 
