@@ -29,6 +29,7 @@ Education
 
 Awards and honors
 ======
+* **2023** [Visiting Research Fellow](https://www.york.ac.uk/che/news/news-2022/che-research-fellowships-award-2022/). [Centre for Health Economics](https://www.york.ac.uk/che/), University of York
 * **2022** Mexican National System of Researchers (SNI) Level II. Mexico's National Council of Science and Technology (CONACyT)
 * **2021** Editorial Board of the Medical Decision Making (MDM) journals ([Medical Decision Making](https://journals.sagepub.com/home/mdm) and [MDM Policy & Practice](https://journals.sagepub.com/home/mpp))
 * **2020** [Society for Medical Decision Making (SMDM) COVID-19 Decision Modeling Initiative (CDMI) Leader](https://nursing.jhu.edu/alumni-giving/giving/covid-decision-modeling/smdm-covid-19-decision-modeling-grant.html)

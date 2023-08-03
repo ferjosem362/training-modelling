@@ -192,10 +192,13 @@ collections:
   funding:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  talks:
     output: true
     permalink: /:collection/:path/
-  talks:
+  blogs:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
     output: true
     permalink: /:collection/:path/
 
