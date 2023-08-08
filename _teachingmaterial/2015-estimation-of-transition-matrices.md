@@ -1,8 +1,8 @@
 ---
 title: "Estimation of Transition Matrices"
-collection: teaching-material
+collection: teachingmaterial
 type: "Notes"
-permalink: /teaching/2015-estimation-of-transition-matrices
+permalink: /teachingmaterial/2015-estimation-of-transition-matrices
 venue: "42st Annual North American Meeting of SMDM"
 date: 2015-02-02
 location: "Minneapolis, MN"
