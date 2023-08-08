@@ -2,7 +2,7 @@
 title: "Cost-Effectiveness and Decision Modeling using R"
 collection: teachingmaterial
 type: "Workshop"
-permalink: /teaching/2021-cost-effectiveness-decision-modeling
+permalink: /teachingmaterial/2021-cost-effectiveness-decision-modeling
 venue: "The Decision Analysis in R for Technologies in Health (DARTH) workgroup in collaboration with the University of Minnesota Division of Health Policy and Management"
 date: 2021-08-23
 location: "Online"
