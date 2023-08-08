@@ -7,10 +7,10 @@ main:
     url: /software/    
 
   - title: "Teaching"
-    url: /teaching-material/
+    url: /teaching/
     
   - title: "Teaching material"
-    url: /teaching/
+    url: /teaching-material/
 
   - title: "Talks"
     url: /talks/    
