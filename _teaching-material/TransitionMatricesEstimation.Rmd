@@ -1,0 +1,189 @@
+---
+title: "Estimation of Transition Matrices"
+subtitle: "Based on @Craig2002"
+author: "Fernando Alarid-Escudero & Karen M Kuntz"
+date: "February 12, 2015"
+output: beamer_presentation
+references:
+- id: Craig2002
+  title: Estimation of the transition matrix of a discrete-time Markov chain
+  author:
+    - family: Craig
+      given: Bruce A 
+    - family: Sendi
+      given: Peter P
+  container-title: Health Economics
+  volume: 42
+  issue: 11
+  page: 33-42
+  type: article-journal
+  issued:
+    year: 2002
+- id: Cinlar1975
+  title: Introduction to Stochastic Processes
+  author:
+    - family: Cinlar
+      given: Erhan  
+  publisher: Prentice-Hall, Inc
+  page: 364-367
+  type: book
+  issued:
+    year: 1975    
+---
+
+## Transition probability matrix
+A Markov model with $M$ states will have the transition matrix
+$$
+P=
+\begin{bmatrix}
+p_{1,1} & p_{1,2} & \cdots & p_{1,M} \\
+p_{2,1} & p_{2,2} & \cdots & p_{2,M} \\
+\vdots & \vdots & \ddots & \vdots \\
+p_{M,1} & p_{M,2} & \cdots & p_{M,M}
+\end{bmatrix},
+$$
+where $p_{i,j}$ is the trasnistion probability from state $i$ to state $j$ in period $T$.
+
+## Transition count matrix
+The transition count matrix represents the observed transitions in period $T$ and is expressed as
+$$
+N=
+\begin{bmatrix}
+n_{1,1} & n_{1,2} & \cdots & n_{1,M} \\
+n_{2,1} & n_{2,2} & \cdots & n_{2,M} \\
+\vdots & \vdots & \ddots & \vdots \\
+n_{M,1} & n_{M,2} & \cdots & n_{M,M}
+\end{bmatrix},
+$$
+where $n_{i,j}$ is the number of occurrences between state $i$ and state $j$ in period $T$.
+
+## Estimation of $P$ from longitudinal cohort data
+The maximum likelihood estimation (MLE) of $P$ is simply the row proportions of $N$
+$$
+\hat{P}=\{\hat{\textbf{p}}\} \text{ where } \hat{p}_{i,j}=\frac{n_{i,j}}{\sum_{m=1}^{M}{n_{i,m}}}
+$$
+
+## Estimate of $P$ for a different time scale 
+- If the observation periods of the longitudinal cohort study are carried out every $t_0$, then the MLE estimate of its corresponding transition probability matrix is $\hat{P}_{t_0}$. 
+- You are interested in a transition matrix for a different time scale (e.g., monthly or biannual)
+- If $t_0$ is the original time scale and $t_f$ the desired time scale, by the invariance property, the MLE of $P_{t_f}$ associated with a cycle length of $t_f$ is simply 
+$$
+\hat{P}_{t_f} = \hat{P}_{t_0}^{(t_f/t_0)}
+$$
+- For example, to obtain a one-year transition matrix from a one-month transition matrix we just simply raise the one-month transition matrix to the twelfth power
+$$
+\hat{P}_{yr} = \hat{P}_{mo}^{(12)}
+$$
+
+## Potential issues 
+- It is relatively easy to go from a shorter time scale to a longer time scale if the latter is a multiple of the former (i.e., $(t_f/t_0)$ is a positive integer)
+- In our monthly to annual scale example we just simply multiply $\hat{P}_{mo}$ 12 times!
+$$
+\hat{P}_{yr} = \hat{P}_{mo} \cdots \hat{P}_{mo}
+$$
+- If this is not the case, we need to do eigenvalues-eigenvectors (spectral) decomposition.
+
+## Spectral decomposition
+- If $P$ is our $M \times M$ transition probability matrix, then its spectral decomposition is defined by
+$$
+P = V D V^{-1}, \text{ where } D = 
+\begin{bmatrix}
+\lambda_{1} & 0 & \cdots & 0 \\
+0 & \lambda_{2} & \ddots & \vdots \\
+\vdots & \ddots & \ddots & 0 \\
+0 & \cdots & 0 & \lambda_{M}
+\end{bmatrix},
+$$
+and $\lambda_i$ is the $i$th eigenvalue and its associated eigenvector is the $i$th column of $V$.
+
+## Spectral decomposition [@Cinlar1975]
+- If we want a transition matrix $P_t$ in a time scale that is $t$ times the original scale (where $t$ could be an integer or not ), then it follows that
+$$
+P_t = V D^t V^{-1}, \text{ where } D^{t} = 
+\begin{bmatrix}
+\lambda^{t}_{1} & 0 & \cdots & 0 \\
+0 & \lambda^{t}_{2} & \ddots & \vdots \\
+\vdots & \ddots & \ddots & 0 \\
+0 & \cdots & 0 & \lambda^{t}_{M}
+\end{bmatrix},
+$$
+- The eigenvalues are raised to the power $t$ but the eigenvectors do not change.
+
+## Example in `R`
+Install `markovchain` package to obtain example data
+```{r, eval=FALSE}
+install.packages{markovchain}
+```
+Load package and example data `craigsendi` from @Craig2002. These data comes from the Swiss HIV cohort study and describes the progression of HIV-infected subjects in terms of their observed six-month CD4-cell count transitions
+```{r, message=FALSE}
+require(markovchain)
+data(craigsendi)
+N<-craigsendi
+```
+
+## Example
+
+Display the 6-month transition count matrix $N$
+```{r}
+N
+```
+
+## Example
+
+Initialize a $3\times 3$ matrix
+```{r}
+P <- matrix(nrow = 3, ncol = 3, 0)
+colnames(P)<-rownames(P)<-colnames(N)
+P
+```
+
+## Example
+
+Compute the MLE of the 6-month transition probability matrix $P$ from transition count matrix $N$. 
+```{r}
+for (i in 1:3) P[i, ] <- N[i, ] / sum(N[i, ])
+P
+```
+
+## Example
+
+Compute one-month transition probability matrix $P_1$ from the 6-month transtion matrix $P$ using the eigen vectors and eigen values decomposition
+```{r}
+eig <- eigen(P)
+eig
+```
+
+## Example
+- Create diagonal matrix D with eigen values
+```{r}
+D <- diag(eig$values)
+```
+
+- Create matrix $V$ with eigen vectors
+```{r}
+V <- eig$vectors
+```
+
+## Example
+
+- Show that both matrices can recreate $P$
+```{r}
+V %*% D %*% solve(V)
+```
+and they do!
+
+- Take the sixth root of each of the diagonal's element of matrix D
+```{r}
+d <- D^(1/6)
+```
+
+## Example
+
+Generate the one-month transition matrix
+```{r}
+P1 <- V %*% d %*% solve(V)
+P1
+```
+
+## References
+
