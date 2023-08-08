@@ -180,7 +180,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  teaching-material:
+  teaching_material:
     output: true
     permalink: /:collection/:path/    
   publications:
@@ -235,6 +235,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _teaching_material
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true      
   # _publications
   - scope:
       path: ""
@@ -291,9 +300,9 @@ defaults:
 # _blogs
   - scope:
       path: ""
-      type: blogs
+      type: talks
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true      
 
