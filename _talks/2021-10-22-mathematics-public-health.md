@@ -8,4 +8,6 @@ date: 2021-10-22
 location: "Virtual meeting"
 ---
 
-[Link to symposium](https://www.youtube.com/watch?v=rF-LFHf_e-A)
+[Link to symposium recording](https://www.youtube.com/watch?v=rF-LFHf_e-A)
+
+[Link to symposium](https://www.smm.org.mx/congreso-2021/actividades/mesas-redondas)
