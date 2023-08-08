@@ -297,7 +297,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-# _blogs
+  # _blogs
   - scope:
       path: ""
       type: talks
