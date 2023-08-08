@@ -6,20 +6,23 @@ main:
   - title: "Software"
     url: /software/    
 
-  - title: "Dissemination"
-    url: /dissemination/ 
+  - title: "Teaching"
+    url: /teaching/
+    
+  - title: "Teaching material"
+    url: /teaching/
 
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/
+  - title: "Blog posts"
+    url: /blogs/
+        
+  - title: "Dissemination"
+    url: /dissemination/ 
 
   - title: "Funding"
     url: /funding/ 
-    
-  - title: "Blog posts"
-    url: /blogs/
     
   - title: "CV"
     url: /cv/
